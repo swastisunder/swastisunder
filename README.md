@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Swastisunder 👋</h1>
 
-<!--
-**swastisunder/swastisunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Building Clean UIs | Full-Stack (MERN) Enthusiast | Learning AI/ML</b><br>
+  Crafting smooth, functional applications with modern web technologies.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm **Swastisunder**, a full-stack developer passionate about building clean, modern, and functional web applications.
+
+I specialize in:
+
+- 🎨 **Frontend:** React, Tailwind, Bootstrap  
+- ⚙️ **Backend:** Node.js, Express  
+- 🗄️ **Databases:** MySQL, MongoDB  
+- 🧠 **Currently Learning:** Python, AI/ML  
+
+I love turning ideas into responsive websites and functional systems — and I'm constantly learning better ways to build.
+
+---
+
+## 🚀 Projects I’ve Built
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| **🎬 CineScope** | React | Explore movies through rich metadata & sleek UI. Helps you discover your next favorite film faster. <br>🔗 **[Live](https://cine-scop.netlify.app/)** |
+| **🛍️ TulasiWear** | React | Clothing E-commerce website with clean UI and smooth UX. <br>🔗 **[Live](https://tulasi-wear.netlify.app/)** |
+| **🎞️ MovieMate** | Python, Streamlit, SQL | ML-based movie recommendation system. |
+
+
+---
+
+## 🛠️ Technologies & Tools
+
+- 🌐 HTML, CSS, JavaScript  
+- 🎨 Bootstrap, Tailwind, React, EJS  
+- ⚙️ Node.js, Express  
+- 🗃️ MySQL, MongoDB  
+- 🧠 Learning Python & AI/ML  
+- 🔧 Git & Github, JSON, REST APIs  
+
+---
+
+## 📫 Let's Connect!
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/swastisunder/  
+- 🐦 **X:** https://x.com/swastisundr  
+- 💻 **GitHub:** https://github.com/swastisunder  
+- 🌐 **Portfolio:** https://swastisunder.netlify.app/  
+- 📧 **Email:** badatyaswastisunder@gmail.com  
+
+---
+
+<p align="center"><b>Always learning. Always building. Always improving. 💡</b></p>
