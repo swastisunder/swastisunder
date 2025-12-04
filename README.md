@@ -26,7 +26,7 @@ I love turning ideas into responsive websites and functional systems — and I'm
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| **🏡 Nivaas** | Express, EJS, CSS, MongoDB, Mongo Atlas, Render | A full Airbnb-style platform for listings, reviews, and user interactions. Clean UI with server-rendered pages. <br>🔗 **[Live](https://nivaas-bvbq.onrender.com/listings)** |
+| **🏡 Nivaas** | MongoDB, Express.js, Node.js | A full Airbnb-style platform for listings, reviews, and user interactions. Clean UI with server-rendered pages. <br>🔗 **[Live](https://nivaas-bvbq.onrender.com/listings)** |
 | **🎬 CineScope** | React | Explore movies through rich metadata & a sleek UI. Helps you discover your next favorite film faster. <br>🔗 **[Live](https://cine-scop.netlify.app/)** |
 | **🛍️ TulasiWear** | React | Clothing E-commerce website with a clean UI and smooth UX. <br>🔗 **[Live](https://tulasi-wear.netlify.app/)** |
 | **🎞️ MovieMate** | Python, Streamlit, SQL | ML-based movie recommendation system that suggests movies based on user preferences. |
